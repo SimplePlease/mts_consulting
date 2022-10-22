@@ -1,0 +1,70 @@
+{
+  "id": "5a364ff0-346f-449b-9222-7922459e1cdd",
+  "parentId": "23faa498-b876-4e7a-90a7-efb432570ef9",
+  "rootParentId": "23faa498-b876-4e7a-90a7-efb432570ef9",
+  "name": "How many smth in chosen tarif",
+  "auto": true,
+  "contexts": [
+    "Givegeneralinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.general_info.certain.measures",
+      "affectedContexts": [
+        {
+          "name": "Howmanysmthinchosentarif-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f2bd3634-9014-4a7d-a8e8-1c8056988743",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "#Givegeneralinfo-followup.tarif_wanted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "462d2c90-e828-4c30-ab5b-55a0e42e95c6",
+          "name": "measures",
+          "required": false,
+          "dataType": "@measures",
+          "value": "$measures",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

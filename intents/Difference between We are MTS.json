@@ -1,0 +1,50 @@
+{
+  "id": "6f61f3ce-053b-4287-a0a6-1d67c0328f66",
+  "name": "Difference between We are MTS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f761780-be7e-4469-8fe9-f464d7749362",
+          "name": "tarif",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "$tarif",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Тариф «МЫ МТС» подключается только владельцу «Группы «Семья+» или «Группы «Семья». \nВладелец  «Группы «Семья+» или «Группы «Семья» подключает себе подписку «МЫ МТС» и приглашает Вас в группу. Когда Вы примете приглашение, Вы автоматически подключитесь к тарифу «МЫ МТС для тебя»."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

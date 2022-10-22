@@ -1,0 +1,415 @@
+[
+  {
+    "id": "12ad1e1e-c508-47b0-bdf9-c59e43b7f505",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "трафика",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " на месяц в ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8b8b7eb4-d2da-4077-bdf4-626f9db74d28",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "ммс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " я смогу отправить за месяц с ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифищем",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f00470d0-b465-4846-b3fe-867c9f16df5d",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "смс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6c0fa28a-f41e-4a43-8674-c195e3295555",
+    "data": [
+      {
+        "text": "какой",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "трафик",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "смарте",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e7d52179-3e64-4463-b1bd-bbdf3b624d01",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "гигов",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "смарте",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d4524ed9-9e3b-49ea-8a86-fa6a10cf18dd",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "интернета",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Смарте",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "70ec8c2f-cd03-4da9-83d1-4e34d65b798d",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "инета",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "ультре",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3609bfe0-9802-440b-8ea5-103b6cb0c46c",
+    "data": [
+      {
+        "text": "А сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "минут",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " выделено на звонки в ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "575bca51-8ce2-4ad1-9410-df7ba5a610f3",
+    "data": [
+      {
+        "text": "А в ",
+        "userDefined": false
+      },
+      {
+        "text": "Мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "минут",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " сколько?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "dd8f8740-ab7a-4391-8aa3-0d33046fa7f8",
+    "data": [
+      {
+        "text": "Что по ",
+        "userDefined": false
+      },
+      {
+        "text": "звонкам",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " в тарифе ",
+        "userDefined": false
+      },
+      {
+        "text": "Смарт",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8e231c61-5e2e-40a3-80e6-0edb2085cb30",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "минут",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "Ультре",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b0298480-093e-4e6a-b2cf-9e7bf08df0cc",
+    "data": [
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "минуты",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3a82669a-cb99-431c-8e00-062d3eff2a2a",
+    "data": [
+      {
+        "text": "Сколько ",
+        "userDefined": false
+      },
+      {
+        "text": "минут",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": " в тарифе ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

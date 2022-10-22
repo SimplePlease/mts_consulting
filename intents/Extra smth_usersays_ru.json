@@ -1,0 +1,279 @@
+[
+  {
+    "id": "554e90db-938b-4eb0-8c41-b8eb90a597ce",
+    "data": [
+      {
+        "text": "что будет, когда у меня закончатся ",
+        "userDefined": false
+      },
+      {
+        "text": "минуты",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " из ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "944dacbe-a498-420c-aa26-0b05eeb8a97e",
+    "data": [
+      {
+        "text": "а сколько стоит купить ",
+        "userDefined": false
+      },
+      {
+        "text": "еще",
+        "meta": "@Extra",
+        "alias": "Extra",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "смс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "727eede7-37ae-4373-8889-e42839bf1aad",
+    "data": [
+      {
+        "text": "Сколько стоят ",
+        "userDefined": false
+      },
+      {
+        "text": "дополнительные",
+        "meta": "@Extra",
+        "alias": "Extra",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ммс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b2453c97-af5c-48d4-9121-5a53b80f89df",
+    "data": [
+      {
+        "text": "Сколько стоят ",
+        "userDefined": false
+      },
+      {
+        "text": "доп",
+        "meta": "@Extra",
+        "alias": "Extra",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ммс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d68cae61-ed74-4984-9339-0b49c03b2e68",
+    "data": [
+      {
+        "text": "А если ",
+        "userDefined": false
+      },
+      {
+        "text": "смс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " закончатся?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b457fe0c-d30a-4453-baa0-952f3e8d2164",
+    "data": [
+      {
+        "text": "А можно будет купить ",
+        "userDefined": false
+      },
+      {
+        "text": "инет",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c8e52da4-233b-45ad-9150-8d6e0b7c040d",
+    "data": [
+      {
+        "text": "А можно будет докупить?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cd6050b1-d2f5-4831-9787-ae6870faa91b",
+    "data": [
+      {
+        "text": "А если данные ",
+        "userDefined": false
+      },
+      {
+        "text": "трафика",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " закончатся?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c791ebea-90a8-4b7f-8b4b-f73462a8bff6",
+    "data": [
+      {
+        "text": "А если ",
+        "userDefined": false
+      },
+      {
+        "text": "инет",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " кончится?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b931b1d1-acd3-4a91-86b0-51509be1269f",
+    "data": [
+      {
+        "text": "А если ",
+        "userDefined": false
+      },
+      {
+        "text": "минуты",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " кончатся?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "16c7508f-5f43-4e22-8eb3-5951086858f3",
+    "data": [
+      {
+        "text": "А есть в тарифе доп ",
+        "userDefined": false
+      },
+      {
+        "text": "смс",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

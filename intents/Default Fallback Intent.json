@@ -1,0 +1,37 @@
+{
+  "id": "614ea989-ea6a-412f-ad9e-e5efe765f9e1",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Извините, я не совсем понимаю, что Вы имеете в виду😞 Пожалуйста, попробуйте написать по-другому.",
+            "Извините, я не совсем Вас понимаю😞 Пожалуйста, попробуйте написать по-другому.",
+            "Извините меня, я не совсем Вас понимаю😞 Пожалуйста, попробуйте написать по-другому."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "0c7113bd-46bb-4999-988e-b89bc4c3c54c",
+  "name": "The cheapest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Givegeneralinfo-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ec81309f-7a87-483d-bb86-314be760c58b",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "Smart",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b1f8ebdf-9eaf-4db5-913e-a6826fef37c2",
+          "name": "price",
+          "required": false,
+          "dataType": "@price",
+          "value": "$price",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Самый дешевый тариф у нас «Smart»🤓"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

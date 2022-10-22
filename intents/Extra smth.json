@@ -1,0 +1,77 @@
+{
+  "id": "87d88a95-fa99-46ab-8acb-6c8be383a46c",
+  "name": "Extra smth",
+  "auto": true,
+  "contexts": [
+    "Givegeneralinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.general_info.extra",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0eb51cd8-7363-4f38-afc3-6e3bed8ee73a",
+          "name": "measures",
+          "required": false,
+          "dataType": "@measures",
+          "value": "$measures",
+          "defaultValue": "Интернет",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc1c0e12-3ead-440e-a217-4c7b28120c5a",
+          "name": "Extra",
+          "required": false,
+          "dataType": "@Extra",
+          "value": "$Extra",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "13769357-54d8-419d-a622-3e3c009cc14c",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "#Givegeneralinfo-followup.tarif_wanted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

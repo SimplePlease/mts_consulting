@@ -1,0 +1,127 @@
+[
+  {
+    "id": "c604c083-4d13-4834-bc5b-60505b511a2a",
+    "data": [
+      {
+        "text": "Что за безлимит?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d70c4afc-9398-4b34-94c5-e9665bcb3911",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " мессенджеры, соц.сети  и видеохостинги безлимитны?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5d8954e3-7364-4f4d-bfbe-b80017dc6104",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " видеохостинги входят?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5989fd14-40f6-4156-b83c-dc12a82c991a",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " мессенджеры популярны?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1a25fc84-21fd-4325-b27b-09a4aa55feed",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " мессенджеры входят в опцию безлимитных мессенджеров?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b9a82987-37dc-43a3-a95b-4c9a64873958",
+    "data": [
+      {
+        "text": "Что за мессенджеры с ",
+        "userDefined": false
+      },
+      {
+        "text": "безлимитом",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ac381506-4081-40af-b866-96e9edbfffda",
+    "data": [
+      {
+        "text": "Что за опция \"Безлимитные мессенджеры\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

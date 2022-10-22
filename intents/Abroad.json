@@ -1,0 +1,92 @@
+{
+  "id": "71d9ac5d-3f5f-4289-b04f-06766021bf92",
+  "name": "Abroad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d4f2d67-8f97-4be4-82f2-72182726e3bf",
+          "name": "measures",
+          "required": false,
+          "dataType": "@measures",
+          "value": "$measures",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f37e4d97-8bda-4015-82f3-2588a4d46888",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "db3c5f7e-556c-47ca-9d8a-5194fe4e4dbc",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2769db77-fe34-4b13-9ff4-bd8c46b9f933",
+          "name": "tarif",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "$tarif",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "🗺Звонки в другие страны, за минуту для любого тарифа:\n・ Армения, Беларусь, Казахстан, Кыргызстан - 36.50 руб.\n・ Абхазия, Азербайджан, Грузия, Молдавия, Таджикистан, Туркменистан, Узбекистан, Украина, Южная Осетия - 60.00 руб.\n・Остальные страны - 85.00 руб."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

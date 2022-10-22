@@ -1,0 +1,125 @@
+[
+  {
+    "id": "70bf3fdb-6f36-4bab-9ecd-2cb5aa07b854",
+    "data": [
+      {
+        "text": "Быстрая команда?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7437db31-0973-48bd-b109-4ede203ddad4",
+    "data": [
+      {
+        "text": "Короткая",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9caf5c44-bff8-4681-8086-c5cc44eedab2",
+    "data": [
+      {
+        "text": "А как-",
+        "userDefined": false
+      },
+      {
+        "text": "то",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " быстро подключить можно?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ccfbb13c-299f-4908-94ba-b01947699b64",
+    "data": [
+      {
+        "text": "А есть короткая?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3bcc464c-45f1-4a85-98af-6cce151aac0c",
+    "data": [
+      {
+        "text": "А короткая",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "93243378-5b74-4056-8ee8-981a77533364",
+    "data": [
+      {
+        "text": "А какая кроткая команда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "18c12f83-7313-4ac0-853b-6ea8ac15b943",
+    "data": [
+      {
+        "text": "А какая короткая команда у ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифища",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

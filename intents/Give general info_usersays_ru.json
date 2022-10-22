@@ -1,0 +1,251 @@
+[
+  {
+    "id": "0cd7a42d-a415-412f-b1d4-60998ae1022a",
+    "data": [
+      {
+        "text": "А можно подробнее про ",
+        "userDefined": false
+      },
+      {
+        "text": "Мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e44cd0f8-6e09-452e-881c-ff644fddab2f",
+    "data": [
+      {
+        "text": "Как перейти на ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": " с ",
+        "userDefined": false
+      },
+      {
+        "text": "Yota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1b0b3f49-b7f3-4d15-82b1-18348c969c5a",
+    "data": [
+      {
+        "text": "как перейти на ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": " с ",
+        "userDefined": false
+      },
+      {
+        "text": "теле2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af1c2f7f-83ed-457d-a460-1cec8179a5c2",
+    "data": [
+      {
+        "text": "как перейти на ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": " с другого ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3ef9a14f-8a6f-4842-be02-68e52ba4a034",
+    "data": [
+      {
+        "text": "как перейти на ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": " с ",
+        "userDefined": false
+      },
+      {
+        "text": "мегафона",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7bc54154-d735-4932-9865-8bff11c57517",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": " при ",
+        "userDefined": false
+      },
+      {
+        "text": "1200 минутах",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8002b734-1dfb-4302-8137-ccf90dd34c87",
+    "data": [
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c81aefc-8e6d-430d-bc7d-52214d704d1b",
+    "data": [
+      {
+        "text": "мне интересно ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "11341cf4-3972-4abd-9145-bab30dbcbf72",
+    "data": [
+      {
+        "text": "мне интересен тариф ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "211f8f7c-3258-4540-92e3-4b9815704960",
+    "data": [
+      {
+        "text": "Расскажи про ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fd06b796-19a8-4ca9-affa-c45cfbe0d750",
+    "data": [
+      {
+        "text": "Здравствуйте",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "! Мне нужно выбрать тарифный план. Я довольно мало пользуюсь звонками и сообщениями, но мне надо много интернета и желательно подешевле. Что посоветуете?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

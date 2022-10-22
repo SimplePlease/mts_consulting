@@ -1,0 +1,313 @@
+[
+  {
+    "id": "c3fc58e1-dd39-43c5-aeaa-08246a7af085",
+    "data": [
+      {
+        "text": "тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "от",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "600",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3ba1de22-9d71-4bb9-a3e6-be77137a2c15",
+    "data": [
+      {
+        "text": "тарифы с ценой ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "600",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "рублей",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "debb2d9f-d783-4527-a233-24eebc8a295b",
+    "data": [
+      {
+        "text": "Расскажите про тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "96a9a3aa-0aea-4e22-997b-eeae84f75710",
+    "data": [
+      {
+        "text": "тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2db722fe-95a0-4fd6-a4ce-f770872c7d02",
+    "data": [
+      {
+        "text": "тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "до",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "600",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " рублей",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a8ae3edd-048c-4ee1-a132-8fab0852b3d5",
+    "data": [
+      {
+        "text": "Есть тарифы  ",
+        "userDefined": false
+      },
+      {
+        "text": "меньше",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "3d530f87-4527-4929-a9dd-f36353ca178a",
+    "data": [
+      {
+        "text": "А ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "76809c7b-a6cd-4758-a013-1b798bc46e21",
+    "data": [
+      {
+        "text": "А что есть между ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "09cf0af0-015f-48f4-8b51-fc3130a37718",
+    "data": [
+      {
+        "text": "Хочу узнать про тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пятисот",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " рублей",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

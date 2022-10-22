@@ -1,0 +1,439 @@
+[
+  {
+    "id": "25d5778e-912e-4e9f-aec8-ee1ea4aadefc",
+    "data": [
+      {
+        "text": "что ",
+        "userDefined": false
+      },
+      {
+        "text": "дороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифища",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ebc2469b-25cb-4f95-80ed-6ca5e73e138b",
+    "data": [
+      {
+        "text": "что ",
+        "userDefined": false
+      },
+      {
+        "text": "подороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ультра",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fbd62bfe-f3d1-4d22-b863-d5a5ca6ac203",
+    "data": [
+      {
+        "text": "что ",
+        "userDefined": false
+      },
+      {
+        "text": "дороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7d43163a-df3a-4eb1-aafb-8fb34f284a46",
+    "data": [
+      {
+        "text": "Че",
+        "userDefined": false
+      },
+      {
+        "text": " есть ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Мы МТС",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2e634245-cd6c-4f16-855c-6b5785a2c716",
+    "data": [
+      {
+        "text": "А есть тариф ",
+        "userDefined": false
+      },
+      {
+        "text": "подороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b627b762-b86f-4cfe-85f9-7b5468025429",
+    "data": [
+      {
+        "text": "А можно тариф ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "смарта",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4e8c46e1-5ad1-467e-9157-8b51169ff0b8",
+    "data": [
+      {
+        "text": "А есть что-",
+        "userDefined": false
+      },
+      {
+        "text": "то",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "умного",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "843f3bc9-089c-419d-aaf1-06efc627f73f",
+    "data": [
+      {
+        "text": "есть что-",
+        "userDefined": false
+      },
+      {
+        "text": "то",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "выгоднее",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифища",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e868b23a-db83-4405-bf1d-80d6849d8903",
+    "data": [
+      {
+        "text": "А что есть ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифища",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a9c55930-5483-47d9-9478-4e8cc3522384",
+    "data": [
+      {
+        "text": "а есть ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " чем ",
+        "userDefined": false
+      },
+      {
+        "text": "смарт",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0de25cd2-23ed-45f5-9488-c4fc15f6e92c",
+    "data": [
+      {
+        "text": "Хм",
+        "userDefined": false
+      },
+      {
+        "text": ",  ",
+        "userDefined": false
+      },
+      {
+        "text": "Ультра",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": true
+      },
+      {
+        "text": " - слишком ",
+        "userDefined": false
+      },
+      {
+        "text": "дорого",
+        "userDefined": false
+      },
+      {
+        "text": ". Есть что-",
+        "userDefined": false
+      },
+      {
+        "text": "то",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6e01938c-9768-46b8-9f1b-0f46e0b8472d",
+    "data": [
+      {
+        "text": "А есть тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "больше",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Смарта",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "505bab1f-22be-4c8a-95ac-81cc5cb19cde",
+    "data": [
+      {
+        "text": "А есть тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ультры",
+        "meta": "@tarif",
+        "alias": "tarif_wanted",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

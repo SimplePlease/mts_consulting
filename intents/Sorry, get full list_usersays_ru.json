@@ -1,0 +1,161 @@
+[
+  {
+    "id": "40f4509c-b1eb-42c0-9182-5ea47dcf0faf",
+    "data": [
+      {
+        "text": "Я бы хотел ",
+        "userDefined": false
+      },
+      {
+        "text": "минуты",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " из Тарифища и интернет из ",
+        "userDefined": false
+      },
+      {
+        "text": "смарта",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a4214ea5-1ec7-4cdd-b02d-214b59aced54",
+    "data": [
+      {
+        "text": "Можно собрать свой тариф?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5ba6cf70-c083-4e88-9bcb-bca70df5ddd2",
+    "data": [
+      {
+        "text": "Можно кастомизировать?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c7966273-2e06-4c71-91d7-d9c901aec44d",
+    "data": [
+      {
+        "text": "А у вас можно как-нибудь кастомизировать тариф, “собрать свой”? Я бы взял ",
+        "userDefined": false
+      },
+      {
+        "text": "примерно минуты",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " и SMS из Smartа и интернет из Тарифища",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bfadfb89-9dc0-42b9-aca2-a6550fcd144b",
+    "data": [
+      {
+        "text": "Хочу дохуя за нихуя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "26082126-9f3b-4e40-a897-fb2f135cefca",
+    "data": [
+      {
+        "text": "тарифы за которые можно получать деньги",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "767978c2-4bd9-4590-8c9c-0206e24cc9c2",
+    "data": [
+      {
+        "text": "Есть ли тарифы, за которые вы будете платить мне?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f5b9ec35-5fbc-4a1f-bf2e-c77f2cc2e2d9",
+    "data": [
+      {
+        "text": "какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " есть тарифы с безлимитным интернетом",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7cf42915-84b1-4715-93f1-e17efb742a22",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " есть тарифы без абонентской платы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "23faa498-b876-4e7a-90a7-efb432570ef9",
+  "name": "Give general info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.general_info.certain",
+      "affectedContexts": [
+        {
+          "name": "Givegeneralinfo-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1746a697-4a3d-43e8-a852-5f1fdea6a5b5",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "$tarif_wanted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7933ddb8-00a6-4ae2-9b9e-353af49f4f60",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

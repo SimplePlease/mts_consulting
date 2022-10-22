@@ -1,0 +1,105 @@
+{
+  "id": "c09b99ba-33c8-48fe-bf61-a21e3828cf4e",
+  "name": "SMS abroad",
+  "auto": true,
+  "contexts": [
+    "Givegeneralinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sms.abroad",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b2003752-95ed-42d5-bed7-0e1447a9e5b3",
+          "name": "measures",
+          "required": false,
+          "dataType": "@measures",
+          "value": "$measures",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cf747aa3-bf0c-452c-8477-dcb8aa2c70a5",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "60c94395-3dc4-4558-91ae-7e1ee82254b8",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8d62dea2-9c43-4820-8b06-f2528372448b",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "63637f1b-c525-4920-85d6-6ea7365f955a",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "#Givegeneralinfo-followup.tarif_wanted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

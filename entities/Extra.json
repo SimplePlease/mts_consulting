@@ -1,0 +1,9 @@
+{
+  "id": "6b674b6b-601d-47c2-a011-a8e4dec4ce95",
+  "name": "Extra",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

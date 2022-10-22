@@ -1,0 +1,127 @@
+[
+  {
+    "id": "0dab65f0-c6f5-44b5-93ce-2bed8c6e70e8",
+    "data": [
+      {
+        "text": "какая разница",
+        "userDefined": false
+      },
+      {
+        "text": " между ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс для тебя",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "110ed459-a475-4ca1-befe-0c43dd5bf55d",
+    "data": [
+      {
+        "text": "А в чем отличие?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "42346989-ddbf-423c-8a47-2900f78d1f9a",
+    "data": [
+      {
+        "text": "Чем отличается ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс для тебя",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " и просто ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cf948b49-4a53-45b2-b916-a11ef8a85f35",
+    "data": [
+      {
+        "text": "А в чем отличие от ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс для тебя",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fe415955-669c-44af-b412-90bd539a7983",
+    "data": [
+      {
+        "text": "А в чем отличие от ",
+        "userDefined": false
+      },
+      {
+        "text": "мы мтс",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

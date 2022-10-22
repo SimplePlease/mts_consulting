@@ -1,0 +1,155 @@
+[
+  {
+    "id": "da91e523-73af-40bb-9743-ad43d44edc9a",
+    "data": [
+      {
+        "text": "самый ",
+        "userDefined": false
+      },
+      {
+        "text": "дорогой",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fca7ed7b-11eb-492d-8bba-64d7a4b8751a",
+    "data": [
+      {
+        "text": "А самый ",
+        "userDefined": false
+      },
+      {
+        "text": "дорогой",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "d53e7693-b384-413e-90a6-8f87211854b4",
+    "data": [
+      {
+        "text": "Я богатый, оформи мне самый ",
+        "userDefined": false
+      },
+      {
+        "text": "дорогой",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " тариф",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a6cff5a1-ed06-42af-b6c8-bc9a7f00e5f8",
+    "data": [
+      {
+        "text": "Хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "жирнейший",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f7114fe9-2ccf-4cd8-b0a4-117b36bbb173",
+    "data": [
+      {
+        "text": "Расскажите про самый ",
+        "userDefined": false
+      },
+      {
+        "text": "роскошный",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": " ваш тариф",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1d24b603-1d55-463f-8f37-6b897a6bbcb3",
+    "data": [
+      {
+        "text": "Я, наверное, хочу самый ",
+        "userDefined": false
+      },
+      {
+        "text": "полный",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b6ef9090-d3a4-49c8-a9f9-1d045503ac3b",
+    "data": [
+      {
+        "text": "А какой тариф у вас самый ",
+        "userDefined": false
+      },
+      {
+        "text": "большой",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

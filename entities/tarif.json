@@ -1,0 +1,9 @@
+{
+  "id": "cf7a1682-5873-4645-a577-d75aabf6080a",
+  "name": "tarif",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

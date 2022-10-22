@@ -1,0 +1,68 @@
+{
+  "id": "9de9c719-6efa-429b-95ce-14fcdd696e31",
+  "name": "Короткая команда",
+  "auto": true,
+  "contexts": [
+    "Givegeneralinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "short",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "071c0786-b2cb-4389-bf54-f6c4795ae571",
+          "name": "tarif_wanted",
+          "required": true,
+          "dataType": "@tarif",
+          "value": "$tarif_wanted",
+          "defaultValue": "#Givengeneralinfo-followup.tarif_wanted",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Для какого тарифа интересует короткая команда?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9745b9c5-7f9f-4967-85be-592e1d666f34",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

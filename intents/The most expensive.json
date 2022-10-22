@@ -1,0 +1,55 @@
+{
+  "id": "c8c813b2-b613-442b-9eaa-818fdd0c60df",
+  "name": "The most expensive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Givegeneralinfo-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9b655fc7-37b9-4c37-9d19-815af4442d11",
+          "name": "price",
+          "required": false,
+          "dataType": "@price",
+          "value": "$price",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Самый дорогой и большой по наполнению у нас тариф «ULTRA»😎."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

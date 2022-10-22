@@ -1,0 +1,167 @@
+[
+  {
+    "id": "a7e3e23c-53bc-4cbe-8fe0-7710bef8173c",
+    "data": [
+      {
+        "text": "какие тарифы ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c076f4e4-0979-42e5-a1c5-51bf71ce293d",
+    "data": [
+      {
+        "text": "А есть что ",
+        "userDefined": false
+      },
+      {
+        "text": "подороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "45645f1e-d936-4768-804d-c44105be1272",
+    "data": [
+      {
+        "text": "А есть что ",
+        "userDefined": false
+      },
+      {
+        "text": "подешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e39be5f7-501f-409c-aec4-0f6cccfad1c6",
+    "data": [
+      {
+        "text": "Можете посоветовать что-",
+        "userDefined": false
+      },
+      {
+        "text": "то",
+        "userDefined": false
+      },
+      {
+        "text": " с ",
+        "userDefined": false
+      },
+      {
+        "text": "большим",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " количеством всего?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1f0cec81-e922-4e06-975e-9504b7dadec3",
+    "data": [
+      {
+        "text": "Что есть ",
+        "userDefined": false
+      },
+      {
+        "text": "дороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1b1416d2-51a7-4e44-9adc-4f40a23f2bab",
+    "data": [
+      {
+        "text": "А что есть ",
+        "userDefined": false
+      },
+      {
+        "text": "выгоднее",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1f71091d-95f5-472f-8f89-9a8a10ee2a89",
+    "data": [
+      {
+        "text": "А что есть ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевле",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "13781d23-43c5-4c1a-b6da-1290252605a6",
+    "data": [
+      {
+        "text": "Стоимость меняется, если городской номер?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "65634bc6-a3ab-4edc-be65-f4922b54a571",
+    "data": [
+      {
+        "text": "А будет ли ",
+        "userDefined": false
+      },
+      {
+        "text": "дороже",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " если городской?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6803cd7e-4880-4890-a9d9-218568f5d061",
+    "data": [
+      {
+        "text": "А если городской номер?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f8d4bbe4-eca0-4295-a84a-9605db3d1050",
+    "data": [
+      {
+        "text": "А какая цена с городским номером?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

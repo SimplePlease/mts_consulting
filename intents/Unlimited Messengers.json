@@ -1,0 +1,66 @@
+{
+  "id": "89503f48-9171-4115-a196-0ddf70fae28e",
+  "name": "Unlimited Messengers",
+  "auto": true,
+  "contexts": [
+    "Givegeneralinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.general_info.certain.unlimited",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6bcd650-f536-4145-a9e8-db9f2536ebc4",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7ff9af70-1460-41ea-b147-c58b569ef0a7",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Опция «Безлимитные мессенджеры»📱 дает безлимитный доступ к соцсетям и мессенджерам\n\nПеречень безлимитных сервисов:\nWhatsApp, Telegram, Viber, Discord, Skype, ICQ, МТС Connect, Snapchat, Там-Там\n\nПри подключении и переходе на открытые для подключения / перехода тарифы и подписки Smart, «Тарифище», «МЫ МТС», ULTRA, опция добавляется автоматически и бесплатно."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

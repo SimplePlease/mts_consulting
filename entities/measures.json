@@ -1,0 +1,9 @@
+{
+  "id": "1ad46e71-c9f8-471b-b1f1-4c2ee9d2301c",
+  "name": "measures",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

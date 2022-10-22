@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8c47ee17-f411-45f0-9d9f-01a33837114a",
+    "data": [
+      {
+        "text": "как",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4336f605-8117-4823-ae7c-3827172bc662",
+    "data": [
+      {
+        "text": "как перейти с ",
+        "userDefined": false
+      },
+      {
+        "text": "мегафона",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7afe4807-46db-4de7-8432-64a522490e97",
+    "data": [
+      {
+        "text": "Как к вам перейти с ",
+        "userDefined": false
+      },
+      {
+        "text": "йоты",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "509eba4a-fb32-4b8d-981e-15a28ac67b80",
+    "data": [
+      {
+        "text": "Я хочу сохранить номер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9c4200e3-79d9-402f-b87b-7875e8706f72",
+    "data": [
+      {
+        "text": "Как перейти к вам?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

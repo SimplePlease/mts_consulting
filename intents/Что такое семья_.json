@@ -1,0 +1,55 @@
+{
+  "id": "8f15a247-1e68-48e7-ab56-16c2154dae0f",
+  "name": "Что такое семья?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Вы можете создать Группу Семья»👨‍👩‍👧‍👦 или в «Группу Семья+»👨‍👩‍👧‍👦  и добавить туда до пяти дополнительных номеров. Преимущества:\n・Использовать общий пакет интернета\n・За каждый дополнительный ПЛЮС 40 ГБ интернета\n・Бесплатные звонки для участников группы «Семья»"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "telegram",
+          "imageUrl": "https://www.meme-arsenal.com/memes/188f7f29d1ab40f925f5ebe8ae05e3c1.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

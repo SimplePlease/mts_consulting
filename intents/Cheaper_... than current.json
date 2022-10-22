@@ -1,0 +1,63 @@
+{
+  "id": "429ef8f0-a0ff-4ce1-9bf6-74dc91f5f0b7",
+  "name": "Cheaper/... than current",
+  "auto": true,
+  "contexts": [
+    "Givegeneralinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.info.cheaper",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7e4cbc28-856c-4776-8111-a343dae529e0",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "#Givegeneralinfo-followup.tarif_wanted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "21e0b071-1734-4b85-8b2a-1ac03bd35317",
+          "name": "price",
+          "required": false,
+          "dataType": "@price",
+          "value": "$price",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

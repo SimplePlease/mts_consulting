@@ -1,0 +1,75 @@
+{
+  "id": "826930ff-c8ab-4708-b083-7eab0fdbce28",
+  "name": "Cheaper/more expensive than",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.info.cheaper.than",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90702d7a-2c6e-47bb-9e0f-469720cd73c0",
+          "name": "price",
+          "required": false,
+          "dataType": "@price",
+          "value": "$price",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1240a017-49b2-441d-9626-b8bed215a495",
+          "name": "tarif_wanted",
+          "required": false,
+          "dataType": "@tarif",
+          "value": "$tarif_wanted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "777bf74d-00d1-4940-84b6-bd4e8097c7be",
+          "name": "measures",
+          "required": false,
+          "dataType": "@measures",
+          "value": "$measures",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

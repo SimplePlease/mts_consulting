@@ -1,0 +1,198 @@
+[
+  {
+    "id": "dce9371e-1e98-496d-b042-a853701e89d3",
+    "data": [
+      {
+        "text": "как позвонить ",
+        "userDefined": false
+      },
+      {
+        "text": "зарубеж",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5e393e9a-7795-41d7-a298-2b2f39743a9a",
+    "data": [
+      {
+        "text": "как позвонить ",
+        "userDefined": false
+      },
+      {
+        "text": "в украину",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ea7c544d-80df-4280-8a00-6fc0058703c6",
+    "data": [
+      {
+        "text": "А в ",
+        "userDefined": false
+      },
+      {
+        "text": "ультре",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " бесплатные ",
+        "userDefined": false
+      },
+      {
+        "text": "звонки",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " заграницу?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5492f207-54b7-4020-9387-21ec027cedbc",
+    "data": [
+      {
+        "text": "А что по ",
+        "userDefined": false
+      },
+      {
+        "text": "звонкам",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " в роуминге?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9b7ea97f-98da-4a69-af6f-3b5ee2ab80c9",
+    "data": [
+      {
+        "text": "А можно ли звонить в ",
+        "userDefined": false
+      },
+      {
+        "text": "Абхазию",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "92d5f5da-d3a6-412b-84d3-8fa2167d30de",
+    "data": [
+      {
+        "text": "А сколько стоит позвонить в ",
+        "userDefined": false
+      },
+      {
+        "text": "УЗбекистан",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cb361aa5-942a-49e2-992e-40653ce5bb70",
+    "data": [
+      {
+        "text": "А сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "минут",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " при ",
+        "userDefined": false
+      },
+      {
+        "text": "звонке",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": " заграницу?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "91dd7bf9-e9c7-462b-b7e9-b4754a032c23",
+    "data": [
+      {
+        "text": "А сколько стоят на этом тарифе зарубежные ",
+        "userDefined": false
+      },
+      {
+        "text": "звонки",
+        "meta": "@measures",
+        "alias": "measures",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

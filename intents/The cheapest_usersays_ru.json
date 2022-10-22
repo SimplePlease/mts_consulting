@@ -1,0 +1,105 @@
+[
+  {
+    "id": "3f695479-efbf-48e1-9fd5-727a6b925099",
+    "data": [
+      {
+        "text": "самый ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевый",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f5061c28-1b0c-4869-87f2-99e802f40d0e",
+    "data": [
+      {
+        "text": "самый ",
+        "userDefined": false
+      },
+      {
+        "text": "недорогой",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "709a242b-44bb-476b-8cb1-db98aa118f90",
+    "data": [
+      {
+        "text": "А что у вас из ",
+        "userDefined": false
+      },
+      {
+        "text": "недорогого",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6538f893-f2c0-4fba-adb8-f160b3f3e760",
+    "data": [
+      {
+        "text": "Хочу самый ",
+        "userDefined": false
+      },
+      {
+        "text": "бюджетный",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ecaeed75-4ab9-41b6-9a38-b0dcfe4079af",
+    "data": [
+      {
+        "text": "Хочу самый ",
+        "userDefined": false
+      },
+      {
+        "text": "дешевый",
+        "meta": "@price",
+        "alias": "price",
+        "userDefined": false
+      },
+      {
+        "text": " тариф",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

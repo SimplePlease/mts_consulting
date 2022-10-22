@@ -1,0 +1,181 @@
+[
+  {
+    "id": "9e76dc4d-db06-49ec-b6b8-cbb544e2b210",
+    "data": [
+      {
+        "text": "круто",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "447df9bf-b8d5-4586-b053-62efb0acc35f",
+    "data": [
+      {
+        "text": "Благодарствую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "69b6be64-3cf8-4690-9f26-e0579da2cbae",
+    "data": [
+      {
+        "text": "Благословит вас бог",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "75712b8d-1689-4232-8ed4-2b50d3b81f4e",
+    "data": [
+      {
+        "text": "Благодарю",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "83536682-a817-451e-87cf-9dd4dda616fb",
+    "data": [
+      {
+        "text": "Пасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b6bc1a2e-7cdd-499a-ba1f-27178b95378d",
+    "data": [
+      {
+        "text": "Пасиб",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a71c0e11-70fe-4b9f-aafb-d4cc02a2b776",
+    "data": [
+      {
+        "text": "Спасибули",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a9f5beb0-c5f2-4794-8318-8f446c4760f2",
+    "data": [
+      {
+        "text": "Спасибочки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ca7d1d6f-9989-4d16-ba15-48661c84f1d4",
+    "data": [
+      {
+        "text": "Спосеба",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ec398426-4a72-4bb6-82be-3a91566b3b42",
+    "data": [
+      {
+        "text": "Рахмат",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fa087c04-5d0b-4463-8bfb-4f05da801a9e",
+    "data": [
+      {
+        "text": "Сэнк",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "166907df-ea7d-4463-8e1d-908387561251",
+    "data": [
+      {
+        "text": "Сэнкс",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ea9f1ea9-f084-4e1a-b4b3-660e6919d2e8",
+    "data": [
+      {
+        "text": "Спасибо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

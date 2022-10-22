@@ -1,0 +1,339 @@
+[
+  {
+    "id": "4fffd06c-b3bc-4df4-a9a6-e0b90964f69e",
+    "data": [
+      {
+        "text": "другой тариф",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2babf05d-d311-473d-96bd-9a994c58b470",
+    "data": [
+      {
+        "text": "Хочу начать пользоваться вашей сетью",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "00d4e453-3e53-4dc6-9bc5-5895a215a29c",
+    "data": [
+      {
+        "text": "Хочу перейти с ",
+        "userDefined": false
+      },
+      {
+        "text": "билайна",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "20659d44-1d5e-4f6e-9ea5-242fdefe602e",
+    "data": [
+      {
+        "text": "Хочу перейти с ",
+        "userDefined": false
+      },
+      {
+        "text": "мегафона",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "мтс",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5723972e-c31c-4c22-9aff-928acffc7a4b",
+    "data": [
+      {
+        "text": "Хочу поменять тариф",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e152c54d-2ce0-4365-a20f-cea9b006e7b2",
+    "data": [
+      {
+        "text": "Расскажи про тарифы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "709772e7-df32-4a3b-a3e4-1c62ca3e3880",
+    "data": [
+      {
+        "text": "Расскажи о тарифах",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "8825abc2-b499-45b9-b95b-59eab2feaff1",
+    "data": [
+      {
+        "text": "расскажите что есть",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "df89e73b-4b5b-438b-b4ce-b0d02d4e3c49",
+    "data": [
+      {
+        "text": "что предложите",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a24e3a69-1a14-432d-830e-32b381f91353",
+    "data": [
+      {
+        "text": "С каких тарифов можно звонить за границу?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7983ffa3-d9cd-463c-903a-59a0fe581699",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " тарифы выгоднее?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "08dbfc62-6948-4abc-9b4a-8f64f57813eb",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " тарифы выгодные?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "260deb62-b36a-42e9-9dfd-8533736f09e0",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " тарифы есть дороже?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "927b8ed9-fce9-40b8-a593-442f67c74545",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " тарифы есть дешевле?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2c9d2ac5-b70e-4bc6-89e2-260e74938635",
+    "data": [
+      {
+        "text": "Какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "385ffa89-431e-49b4-9824-bfa92214d6bf",
+    "data": [
+      {
+        "text": "а что вы предлагаете",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ab9ba36f-426f-45d4-a810-77b04038d474",
+    "data": [
+      {
+        "text": "а что есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5dcf6ed2-030b-45a2-b6db-1219d1d5445e",
+    "data": [
+      {
+        "text": "А ",
+        "userDefined": false
+      },
+      {
+        "text": "какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " тарифы есть еще?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2583332c-4a7f-4c32-b8b1-e77e5e738c82",
+    "data": [
+      {
+        "text": "А ",
+        "userDefined": false
+      },
+      {
+        "text": "какие",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " тарифы есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Здравствуйте",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "! Мне нужно выбрать тарифный план. Я довольно мало пользуюсь звонками и сообщениями, но мне надо много интернета и желательно подешевле. Что посоветуете?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

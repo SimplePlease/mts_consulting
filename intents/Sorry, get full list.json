@@ -1,0 +1,78 @@
+{
+  "id": "a802c735-cb52-478b-a624-e6173c4b1dee",
+  "name": "Sorry, get full list",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.general_info.all.sorry",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "66e6dbbd-eb50-4ed4-9cc3-b1f6e40af9a8",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "055c36b2-a716-4e32-9216-57728bf893f7",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ab3dae3f-cf20-4995-a2fe-55cd8b5c95e7",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "У нас есть следующие тарифы:\n1) Тариф «ULTRA»😎\n2) Тариф «МЫ МТС»👨‍👩‍👧‍👦\n3) Тариф «МЫ МТС Для тебя»👨‍👩‍👧‍👦 \n4) Тариф «Smart»🤓 \n5) ТАРИФИЩЕ🤯"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

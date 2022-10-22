@@ -1,0 +1,289 @@
+[
+  {
+    "id": "44b373d0-da5a-4994-aeed-78eeaa316400",
+    "data": [
+      {
+        "text": "Привет как подключить ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f4a23507-5e51-4d16-826e-a7928f71d164",
+    "data": [
+      {
+        "text": "Здравствуйте",
+        "userDefined": false
+      },
+      {
+        "text": " как подключить ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a74d7f31-0479-4aec-ba65-c1ce15cc0e7b",
+    "data": [
+      {
+        "text": "Хочу перейти на ",
+        "userDefined": false
+      },
+      {
+        "text": "новый",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " тариф",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b0fbca04-420b-4680-80e0-27b24002a7fb",
+    "data": [
+      {
+        "text": "Хочу перейти на ",
+        "userDefined": false
+      },
+      {
+        "text": "смарт",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "e193eea3-e11a-412e-be1f-c07a724644bd",
+    "data": [
+      {
+        "text": "Хочу купить ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": " на свой номер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2543efa2-3afa-465d-9fc1-92740e96327e",
+    "data": [
+      {
+        "text": "Хочу оплатить ",
+        "userDefined": false
+      },
+      {
+        "text": "УЛьтру",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "a176bbb5-bb8a-472b-b7a9-c3db928e12da",
+    "data": [
+      {
+        "text": "Хочу оформить тариф ",
+        "userDefined": false
+      },
+      {
+        "text": "Ультра",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": ", как оплатить?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "76bc6935-60ba-4ff2-8a41-c89f6e80c533",
+    "data": [
+      {
+        "text": "Хочу оформить тариф ",
+        "userDefined": false
+      },
+      {
+        "text": "Ультра",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "f195b8e5-13db-4d08-aab0-14d5c7b8f48e",
+    "data": [
+      {
+        "text": "Я являюсь абонентом ",
+        "userDefined": false
+      },
+      {
+        "text": "Мтс",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", хочу сменить тариф.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "1a430428-f7df-494c-9f56-ee83a2f4887e",
+    "data": [
+      {
+        "text": "Меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Аня",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": ". Хочу подключить ",
+        "userDefined": false
+      },
+      {
+        "text": "ультру",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      },
+      {
+        "text": ". Номер для связи - +",
+        "userDefined": false
+      },
+      {
+        "text": "7 999 99 99",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "7bb6cee0-7dc9-43ea-9281-182ec3b8ba1e",
+    "data": [
+      {
+        "text": "Хочу подключить тариы на номер ",
+        "userDefined": false
+      },
+      {
+        "text": "+79264250340",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "30960422-e3fa-43e3-b774-c8bec1ab79f8",
+    "data": [
+      {
+        "text": "Я остановился на ",
+        "userDefined": false
+      },
+      {
+        "text": "тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "adea0227-22cf-44ce-8dcc-11826e3a8da6",
+    "data": [
+      {
+        "text": "Хочу подключить тариф ",
+        "userDefined": false
+      },
+      {
+        "text": "Тарифище",
+        "meta": "@tarif",
+        "alias": "tarif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]
